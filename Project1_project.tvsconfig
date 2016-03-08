@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.Unit3" Type="System.String" Value="Unit3" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Unit1" Type="System.String" Value="Unit1" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Mirror" Type="System.String" Value="" Category="General" IsBrowsable="False" />
+</TgConfig>
